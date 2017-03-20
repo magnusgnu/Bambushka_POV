@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Einstellungen</string>
+    <string name="DispositivosPareados">Gepaarte Geräte</string>
+    <string name="ListarDispositivos">Geräteliste</string>
+    <string name="sel_wifi">Wählen Sie WIFI</string>
+    <string name="sel_bt">Wählen Sie Bluetooth</string>
+    <string name="Device_not_found">Bluetooth-Gerät nicht verfügbar</string>
+    <string name="fx1">Bewirken 1</string>
+    <string name="fx2">Bewirken 2</string>
+    <string name="desconectBT">Trennen</string>
+    <string name="NoDevicePaired">Keine gepaarten Bluetooth-Geräte gefunden.</string>
+    <string name="brilhoBT">Helligkeit</string>
+</resources>

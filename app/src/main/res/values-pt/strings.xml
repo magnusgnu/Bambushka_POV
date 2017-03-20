@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bambushka_POV</string>
+    <string name="action_settings">Configurações</string>
+    <string name="DispositivosPareados">Dispositivos Pareados</string>
+    <string name="ListarDispositivos">Listar Dispositivos</string>
+    <string name="sel_wifi">Selecionar WIFI</string>
+    <string name="sel_bt">Selecionar BLuetooth</string>
+    <string name="Device_not_found">Dispositivo Bluetooth não disponível</string>
+    <string name="fx1">Efeito 1</string>
+    <string name="fx2">Efeito 2</string>
+    <string name="desconectBT">Desconectar</string>
+    <string name="NoDevicePaired">Nenhum Dispositivo Bluetooth Emparelhado Encontrado.</string>
+    <string name="brilhoBT">Brilho</string>
+</resources>
